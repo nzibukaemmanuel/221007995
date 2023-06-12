@@ -1,7 +1,7 @@
-#Nzibuka Emmanuel
-#221007995
-#ComputerScienvce
-pelino work
+#**Nzibuka Emmanuel**
+#**221007995**
+#**ComputerScienvce**
+#*pelino work
 import random
 
 num = input("Enter the number of friends joining (including you):\n")
